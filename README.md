@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ahmadfaqih-dev.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ahmadfaqih.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ahmadfaqih-dev.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ahmadfaqih_dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ahmadfaqih-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmad%20Faqih-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ahmadfaqih.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ahmadfaqih.dev-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ahmadfaqih-dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmadfaqih.dev@gmail.com.edu-blue?style=flat-square&logo=gmail"></a>
