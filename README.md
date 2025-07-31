@@ -1,4 +1,4 @@
-<img src="https://ahmadfaqih-dev.github.io/images/ahmadfaqih.jpg">
+<img src="[https://github.com/account](https://avatars.githubusercontent.com/u/48741427?v=4)">
 
 <h2> Hey there! I'm Ahmad Faqih.</h2>
 
